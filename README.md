@@ -7,6 +7,7 @@ Done:
 - Palindromes
 - Palindromes with base N
 - Subpalindromes
+- Folder Fusion
 
 Language used: 
 Python
